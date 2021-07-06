@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "163053206852",
+    "project_id": "gazapps-c3d05",
+    "storage_bucket": "gazapps-c3d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163053206852:android:28ca9b3f063e0676f5eb11",
+        "android_client_info": {
+          "package_name": "com.gcodes.gactoriginal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163053206852-g69g8b0am9ldi5jujm60bli6ilacr3kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiaNyR_3QJiN-t3zXXJ6aR9Q8iMfWV5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163053206852-g69g8b0am9ldi5jujm60bli6ilacr3kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163053206852:android:bed6dcc9e7df0294f5eb11",
+        "android_client_info": {
+          "package_name": "com.tony_fire.gprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163053206852-g69g8b0am9ldi5jujm60bli6ilacr3kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiaNyR_3QJiN-t3zXXJ6aR9Q8iMfWV5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163053206852-g69g8b0am9ldi5jujm60bli6ilacr3kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
